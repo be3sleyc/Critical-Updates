@@ -16,7 +16,7 @@
 
     <script>
         const rssUrl = encodeURIComponent('https://api.msrc.microsoft.com/update-guide/rss');
-        fetch(`https://rss2json.com{rssUrl}`)
+        fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)
             .then(res => res.json())
             .then(data => {
                 const container = document.getElementById('content');
