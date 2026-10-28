@@ -14,25 +14,31 @@
     <div class="title">Current Microsoft Security Releases</div>
     <div id="content">Loading live patch data...</div>
 
-    <script>
-        const rssUrl = encodeURIComponent('https://api.msrc.microsoft.com/update-guide/rss');
-        fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)
-            .then(res => res.json())
-            .then(data => {
-                const container = document.getElementById('content');
-                container.innerHTML = '';
-                if(data.status === 'ok') {
-                    data.items.forEach(item => {
-                        const div = document.createElement('div');
-                        div.className = 'update-item';
-                        div.innerHTML = `
-                            <a class="update-link" href="${item.link}" target="_blank">${item.title}</a>
-                            <span class="date">Published: ${new Date(item.pubDate).toLocaleDateString()}</span>
-                        `;
-                        container.appendChild(div);
-                    });
-                } else { container.innerText = 'Failed to load update feed.'; }
-            }).catch(() => { document.getElementById('content').innerText = 'Error loading feed.'; });
-    </script>
+   <script>
+    const rssUrl = encodeURIComponent('https://api.msrc.microsoft.com/update-guide/rss');
+    fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)
+        .then(res => res.json())
+        .then(data => {
+            const container = document.getElementById('content');
+            container.innerHTML = '';
+            if (data.status === 'ok') {
+                data.items.forEach(item => {
+                    const div = document.createElement('div');
+                    div.className = 'update-item';
+                    div.innerHTML = `
+                        <a class="update-link" href="${item.link}" target="_blank">${item.title}</a>
+                        <span class="date">Published: ${new Date(item.pubDate).toLocaleDateString()}</span>
+                    `;
+                    container.appendChild(div);
+                });
+            } else {
+                container.innerText = 'Failed to load update feed: ' + (data.message || 'unknown error');
+            }
+        })
+        .catch(err => {
+            console.error(err);
+            document.getElementById('content').innerText = 'Error loading feed.';
+        });
+</script>
 </body>
 </html>
