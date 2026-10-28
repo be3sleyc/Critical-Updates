@@ -15,7 +15,7 @@
     <div id="content">Loading live patch data...</div>
 
     <script>
-        const rssUrl = encodeURIComponent('https://microsoft.com');
+        const rssUrl = encodeURIComponent('https://api.msrc.microsoft.com/update-guide/rss');
         fetch(`https://rss2json.com{rssUrl}`)
             .then(res => res.json())
             .then(data => {
