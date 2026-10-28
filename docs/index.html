@@ -14,26 +14,44 @@
     <div class="title">Current Microsoft Security Releases</div>
     <div id="content">Loading live patch data...</div>
 
-   <script>
-    const rssUrl = encodeURIComponent('https://msrc.microsoft.com/blog/feed');
-    fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`)
-        .then(res => res.json())
-        .then(data => {
+  <script>
+    fetch('feed.xml')
+        .then(res => {
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            return res.text();
+        })
+        .then(text => {
+            const xml = new DOMParser().parseFromString(text, 'application/xml');
             const container = document.getElementById('content');
             container.innerHTML = '';
-            if (data.status === 'ok') {
-                data.items.forEach(item => {
-                    const div = document.createElement('div');
-                    div.className = 'update-item';
-                    div.innerHTML = `
-                        <a class="update-link" href="${item.link}" target="_blank">${item.title}</a>
-                        <span class="date">Published: ${new Date(item.pubDate).toLocaleDateString()}</span>
-                    `;
-                    container.appendChild(div);
-                });
-            } else {
-                container.innerText = 'Failed to load update feed: ' + (data.message || 'unknown error');
-            }
+
+            const items = [...xml.querySelectorAll('item, entry')].slice(0, 15);
+            if (!items.length) { container.innerText = 'No updates found.'; return; }
+
+            items.forEach(item => {
+                const get = tag => item.querySelector(tag)?.textContent?.trim() || '';
+                const title = get('title');
+                const link = get('link') || item.querySelector('link')?.getAttribute('href') || '#';
+                const dateStr = get('pubDate') || get('updated') || get('published');
+                const date = dateStr ? new Date(dateStr).toLocaleDateString() : '';
+
+                const div = document.createElement('div');
+                div.className = 'update-item';
+
+                const a = document.createElement('a');
+                a.className = 'update-link';
+                a.href = link;
+                a.target = '_blank';
+                a.rel = 'noopener';
+                a.textContent = title;
+
+                const span = document.createElement('span');
+                span.className = 'date';
+                span.textContent = date ? 'Published: ' + date : '';
+
+                div.append(a, span);
+                container.appendChild(div);
+            });
         })
         .catch(err => {
             console.error(err);
