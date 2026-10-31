@@ -5,7 +5,517 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Fri, 30 Oct 2026 21:48:42 Z</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:00:09 Z</lastBuildDate>
+    <item
+      Revision="4.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-111497</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497</link>
+      <category>CVE</category>
+      <title>CVE-2026-111497 Google: CVE-2026-111497 Buffer overflow vulnerability in the Brotli decoder</title>
+      <description>Information published.</description>
+      <pubDate>Sat, 31 Oct 2026 01:13:53 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118304</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118304</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118304 Improper input validation in SVG</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118313</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118313</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118313 Use after free in Video</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118311</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118311</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118311 Memory corruption in Media</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118317</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118317</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118317 Memory corruption in HTML</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118315</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118315</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118315 Improper input validation in SVG</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118312</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118312</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118312 Memory corruption in Paint</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118316</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118316</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118316 Improper input validation in V8</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118318</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118318</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118318 Improper access control in V8</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118308</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118308</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118308 Use after free in SVG</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118310</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118310</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118310 Improper input validation in Views</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118305</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118305</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118305 Memory corruption in Turbolev</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118307</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118307</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118307 Use after free in Paint</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118306</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118306</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118306 Memory corruption in FileSystem</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118319</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118319</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118319 Memory corruption in Skia</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118322</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118322</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118322 Memory corruption in ANGLE</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118328</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118328</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118328 Improper input validation in WebRTC</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118327</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118327</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118327 Memory corruption in Media</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118332</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118332</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118332 Improper input validation in Compositing</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118320</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118320</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118320 Memory corruption in V8</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118334</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118334</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118334 Use after free in ImageCapture</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118331</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118331</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118331 Improper input validation in FileAPI</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118330</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118330</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118330 Use after free in Browser</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118333</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118333</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118333 Missing authorization in Video</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118335</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118335</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118335 Improper input validation in Metrics</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118329</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118329</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118329 Improper input validation in ANGLE</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118336</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118336</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118336 Improper input validation in Headless</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118337</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118337</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118337 Improper access control in Forms</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118338</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118338</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118338 Use after free in Animation</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118339</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118339</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118339 Use after free in Animation</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118340</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118340</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118340 Memory corruption in Skia</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118341</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118341</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118341 Use after free in Modularization</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118342</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118342</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118342 Out of bounds write in Editing</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118343</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118343</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118343 Improper input validation in ReadingList</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118344</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118344</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118344 Use after free in Layout</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118345</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118345</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118345 Use after free in PDFium</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118346</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118346</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118346 Use after free in Compositing</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118347</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118347</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118347 Use after free in FileSystem</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118348</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118348</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118348 Improper input validation in Skia</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118349</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118349</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118349 Memory corruption in Payments</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118350</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118350</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118350 Use after free in Turbolev</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118351</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118351</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118351 Memory corruption in Skia</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118352</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118352</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118352 Memory corruption in Cache</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118353</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118353</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118353 Use after free in Paint</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118354</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118354</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118354 Improper input validation in Skia</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118355</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118355</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118355 Improper input validation in Command</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118356</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118356</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118356 Use after free in WTF</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118357</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118357</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118357 Use after free in FileSystem</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118358</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118358</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118358 Memory corruption in WebAudio</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118359</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118359</link>
+      <category>CVE</category>
+      <title>Chromium: CVE-2026-118359 Memory corruption in V8</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
+    <item
+      Revision="1.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-91732</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-91732</link>
+      <category>CVE</category>
+      <title>Chromium CVE-2026-91732: Missing authorization</title>
+      <description>This CVE was assigned by Chrome. Microsoft Edge (Chromium-based) ingests Chromium, which addresses this vulnerability. Please see [Google Chrome Releases](https://chromereleases.googleblog.com/2026) for more information.</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+    </item>
     <item
       Revision="1.3000000000">
       <guid
