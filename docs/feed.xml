@@ -5,7 +5,17 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Fri, 06 Nov 2026 21:50:57 Z</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:26:37 Z</lastBuildDate>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83844</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83844</link>
+      <category>CVE</category>
+      <title>CVE-2026-83844 Windows Paint Remote Code Execution Vulnerability</title>
+      <description>Added an FAQ and updated the CVSS score. This is an informational change only.</description>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="2.0000000000">
       <guid
@@ -53783,126 +53793,6 @@ Please see [CVE-2026-6726](https://www.cve.org/CVERecord?id=CVE-2026-6726) for m
       <title>CVE-2026-64542 ipv6: ndisc: fix NULL deref in accept_untracked_na()</title>
       <description>Information published.</description>
       <pubDate>Sun, 09 Aug 2026 01:41:15 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2025-62725</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62725</link>
-      <category>CVE</category>
-      <title>CVE-2025-62725 Docker Compose Vulnerable to Path Traversal via OCI Artifact Layer Annotations</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:34 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68480</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68480</link>
-      <category>CVE</category>
-      <title>CVE-2026-68480 x86/bugs: Make Safe-RET robust against interrupt injection</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:01:45 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-32597</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32597</link>
-      <category>CVE</category>
-      <title>CVE-2026-32597 PyJWT accepts unknown `crit` header extensions (RFC 7515 §4.1.11 MUST violation)</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:53 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-12080</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-12080</link>
-      <category>CVE</category>
-      <title>CVE-2026-12080 Qemu-kvm: qemu-guest-agent: local privilege escalation via symlink attack in guest-ssh-add-authorized-keys</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:05 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-44509</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44509</link>
-      <category>CVE</category>
-      <title>CVE-2026-44509 Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-43619. Reason: This candidate is a duplicate of CVE-2026-43619. Notes: All CVE users should reference CVE-2026-43619 instead of this candidate.</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:14 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-44508</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44508</link>
-      <category>CVE</category>
-      <title>CVE-2026-44508 Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-43618. Reason: This candidate is a duplicate of CVE-2026-43618. Notes: All CVE users should reference CVE-2026-43618 instead of this candidate.</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:26 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-55995</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55995</link>
-      <category>CVE</category>
-      <title>CVE-2026-55995 Double-free in the iSNS attribute decoder in open-iscsi</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:41:38 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-44943</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44943</link>
-      <category>CVE</category>
-      <title>CVE-2026-44943 remote limited file-write as root via discovery in open-iscsi</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:41:21 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-44510</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44510</link>
-      <category>CVE</category>
-      <title>CVE-2026-44510 Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-43620. Reason: This candidate is a duplicate of CVE-2026-43620. Notes: All CVE users should reference CVE-2026-43620 instead of this candidate.</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:20 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-44944</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44944</link>
-      <category>CVE</category>
-      <title>CVE-2026-44944 iscsiuio control-socket authentication bypass in open-iscsi</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:41:29 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-6879</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-6879</link>
-      <category>CVE</category>
-      <title>CVE-2026-6879 Quadratic Behavior in xml.etree.ElementPath Index Predicates</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:41:10 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-48524</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-48524</link>
-      <category>CVE</category>
-      <title>CVE-2026-48524 PyJWT: PyJWKClient unbounded JWKS endpoint requests via attacker-controlled kid values (DoS)</title>
-      <description>Information published.</description>
-      <pubDate>Sat, 08 Aug 2026 01:40:45 -0700</pubDate>
     </item>
   </channel>
 </rss>
