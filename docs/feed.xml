@@ -5,907 +5,7 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Tue, 10 Nov 2026 22:34:42 Z</lastBuildDate>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50423</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50423</link>
-      <category>CVE</category>
-      <title>CVE-2026-50423 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-55043</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55043</link>
-      <category>CVE</category>
-      <title>CVE-2026-55043 Microsoft PowerPoint Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-55123</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55123</link>
-      <category>CVE</category>
-      <title>CVE-2026-55123 Microsoft PowerPoint Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62784</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62784</link>
-      <category>CVE</category>
-      <title>CVE-2026-62784 Microsoft Local Security Authority Server (lsasrv) Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68794</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68794</link>
-      <category>CVE</category>
-      <title>CVE-2026-68794 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-66810</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66810</link>
-      <category>CVE</category>
-      <title>CVE-2026-66810 Microsoft Office Word Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62694</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694</link>
-      <category>CVE</category>
-      <title>CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-85360</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85360</link>
-      <category>CVE</category>
-      <title>CVE-2026-85360 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68833</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68833</link>
-      <category>CVE</category>
-      <title>CVE-2026-68833 Windows NTFS Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68884</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68884</link>
-      <category>CVE</category>
-      <title>CVE-2026-68884 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-71339</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71339</link>
-      <category>CVE</category>
-      <title>CVE-2026-71339 Windows Installer Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69548</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69548</link>
-      <category>CVE</category>
-      <title>CVE-2026-69548 Windows RNDIS Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69767</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69767</link>
-      <category>CVE</category>
-      <title>CVE-2026-69767 Microsoft Office PowerPoint Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83952</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83952</link>
-      <category>CVE</category>
-      <title>CVE-2026-83952 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69492</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69492</link>
-      <category>CVE</category>
-      <title>CVE-2026-69492 Windows Partition Management Driver Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-56172</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56172</link>
-      <category>CVE</category>
-      <title>CVE-2026-56172 Windows VHD miniport driver Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68839</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68839</link>
-      <category>CVE</category>
-      <title>CVE-2026-68839 Windows USB Mass Storage Class Driver Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.4000000000">
-      <guid
-        isPermaLink="false">CVE-2026-68880</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880</link>
-      <category>CVE</category>
-      <title>CVE-2026-68880 Windows Win32k Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69280</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69280</link>
-      <category>CVE</category>
-      <title>CVE-2026-69280 Windows Push Notifications Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69277</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69277</link>
-      <category>CVE</category>
-      <title>CVE-2026-69277 Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69407</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69407</link>
-      <category>CVE</category>
-      <title>CVE-2026-69407 Volume Manager Driver Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69453</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69453</link>
-      <category>CVE</category>
-      <title>CVE-2026-69453 Microsoft Windows Search Component Tampering Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69467</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69467</link>
-      <category>CVE</category>
-      <title>CVE-2026-69467 Microsoft Graphics Component Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70583</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70583</link>
-      <category>CVE</category>
-      <title>CVE-2026-70583 Windows Core Messaging Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69409</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69409</link>
-      <category>CVE</category>
-      <title>CVE-2026-69409 Microsoft Office SharePoint Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-72974</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72974</link>
-      <category>CVE</category>
-      <title>CVE-2026-72974 Microsoft Office Excel Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69465</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69465</link>
-      <category>CVE</category>
-      <title>CVE-2026-69465 Microsoft Office SharePoint Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-73016</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73016</link>
-      <category>CVE</category>
-      <title>CVE-2026-73016 DirectWrite Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-77911</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77911</link>
-      <category>CVE</category>
-      <title>CVE-2026-77911 Microsoft Office Word Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81398</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81398</link>
-      <category>CVE</category>
-      <title>CVE-2026-81398 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81954</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81954</link>
-      <category>CVE</category>
-      <title>CVE-2026-81954 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81394</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81394</link>
-      <category>CVE</category>
-      <title>CVE-2026-81394 Microsoft Excel Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81957</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81957</link>
-      <category>CVE</category>
-      <title>CVE-2026-81957 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81951</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81951</link>
-      <category>CVE</category>
-      <title>CVE-2026-81951 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-81949</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81949</link>
-      <category>CVE</category>
-      <title>CVE-2026-81949 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83978</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83978</link>
-      <category>CVE</category>
-      <title>CVE-2026-83978 Windows Biometric Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83985</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83985</link>
-      <category>CVE</category>
-      <title>CVE-2026-83985 Windows Biometric Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-102227</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102227</link>
-      <category>CVE</category>
-      <title>CVE-2026-102227 Windows Resilient File System (ReFS) Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-105726</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105726</link>
-      <category>CVE</category>
-      <title>CVE-2026-105726 Microsoft Defender Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-108447</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108447</link>
-      <category>CVE</category>
-      <title>CVE-2026-108447 Microsoft Office Word Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69898</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69898</link>
-      <category>CVE</category>
-      <title>CVE-2026-69898 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70017</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70017</link>
-      <category>CVE</category>
-      <title>CVE-2026-70017 Windows Secure Kernel Mode Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70271</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70271</link>
-      <category>CVE</category>
-      <title>CVE-2026-70271 Windows Win32k Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83650</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83650</link>
-      <category>CVE</category>
-      <title>CVE-2026-83650 Windows Media Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83678</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83678</link>
-      <category>CVE</category>
-      <title>CVE-2026-83678 Windows TCP/IP Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83681</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83681</link>
-      <category>CVE</category>
-      <title>CVE-2026-83681 Microsoft PowerToys Tampering Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83758</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83758</link>
-      <category>CVE</category>
-      <title>CVE-2026-83758 Windows Error Reporting Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83768</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83768</link>
-      <category>CVE</category>
-      <title>CVE-2026-83768 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83775</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83775</link>
-      <category>CVE</category>
-      <title>CVE-2026-83775 Windows Installer Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83828</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83828</link>
-      <category>CVE</category>
-      <title>CVE-2026-83828 Windows MIDI Service Module Elevation of Privileges Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83846</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83846</link>
-      <category>CVE</category>
-      <title>CVE-2026-83846 Connected Devices Platform Service (Cdpsvc) Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83902</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83902</link>
-      <category>CVE</category>
-      <title>CVE-2026-83902 Windows Direct Composition Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70275</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70275</link>
-      <category>CVE</category>
-      <title>CVE-2026-70275 Windows CD-ROM File System Driver Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83911</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83911</link>
-      <category>CVE</category>
-      <title>CVE-2026-83911 Windows Storage Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83919</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83919</link>
-      <category>CVE</category>
-      <title>CVE-2026-83919 Microsoft Internet Messaging API Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83926</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83926</link>
-      <category>CVE</category>
-      <title>CVE-2026-83926 Windows Hello Security Feature Bypass Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-84018</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84018</link>
-      <category>CVE</category>
-      <title>CVE-2026-84018 Windows Print Spooler Components Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-85927</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85927</link>
-      <category>CVE</category>
-      <title>CVE-2026-85927 Windows Universal Plug and Play (UPnP) Device Host Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70052</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70052</link>
-      <category>CVE</category>
-      <title>CVE-2026-70052 Microsoft PowerShell Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69940</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69940</link>
-      <category>CVE</category>
-      <title>CVE-2026-69940 Windows Client for NFS Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70291</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70291</link>
-      <category>CVE</category>
-      <title>CVE-2026-70291 Microsoft Office Outlook Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-88151</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88151</link>
-      <category>CVE</category>
-      <title>CVE-2026-88151 Microsoft Office Excel Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-88202</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88202</link>
-      <category>CVE</category>
-      <title>CVE-2026-88202 Microsoft Office Word Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-96223</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96223</link>
-      <category>CVE</category>
-      <title>CVE-2026-96223 Windows Hyper-V Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-96311</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96311</link>
-      <category>CVE</category>
-      <title>CVE-2026-96311 Windows Network List Service Tampering Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-96314</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96314</link>
-      <category>CVE</category>
-      <title>CVE-2026-96314 Windows Audio Service Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97749</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97749</link>
-      <category>CVE</category>
-      <title>CVE-2026-97749 Microsoft Office Outlook Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.4000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97776</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97776</link>
-      <category>CVE</category>
-      <title>CVE-2026-97776 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97767</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97767</link>
-      <category>CVE</category>
-      <title>CVE-2026-97767 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69880</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69880</link>
-      <category>CVE</category>
-      <title>CVE-2026-69880 Desktop Window Manager Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70199</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70199</link>
-      <category>CVE</category>
-      <title>CVE-2026-70199 Windows Kernel Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83639</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83639</link>
-      <category>CVE</category>
-      <title>CVE-2026-83639 Windows Sensor Data Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-83676</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83676</link>
-      <category>CVE</category>
-      <title>CVE-2026-83676 Windows Installer Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69798</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69798</link>
-      <category>CVE</category>
-      <title>CVE-2026-69798 Windows Wired AutoConfig Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-88072</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88072</link>
-      <category>CVE</category>
-      <title>CVE-2026-88072 Windows Host Guardian Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-88128</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88128</link>
-      <category>CVE</category>
-      <title>CVE-2026-88128 Windows DWM Core Library Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-88152</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88152</link>
-      <category>CVE</category>
-      <title>CVE-2026-88152 Windows Background Intelligent Transfer Service (BITS) Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70202</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70202</link>
-      <category>CVE</category>
-      <title>CVE-2026-70202 Microsoft Office SharePoint Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-96251</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96251</link>
-      <category>CVE</category>
-      <title>CVE-2026-96251 Microsoft PowerShell Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97008</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97008</link>
-      <category>CVE</category>
-      <title>CVE-2026-97008 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97743</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97743</link>
-      <category>CVE</category>
-      <title>CVE-2026-97743 Microsoft Office Excel Information Disclosure Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.4000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97777</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97777</link>
-      <category>CVE</category>
-      <title>CVE-2026-97777 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97011</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97011</link>
-      <category>CVE</category>
-      <title>CVE-2026-97011 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97757</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97757</link>
-      <category>CVE</category>
-      <title>CVE-2026-97757 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97763</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97763</link>
-      <category>CVE</category>
-      <title>CVE-2026-97763 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97768</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97768</link>
-      <category>CVE</category>
-      <title>CVE-2026-97768 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-97745</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97745</link>
-      <category>CVE</category>
-      <title>CVE-2026-97745 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-100211</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100211</link>
-      <category>CVE</category>
-      <title>CVE-2026-100211 Microsoft Office Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-102214</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102214</link>
-      <category>CVE</category>
-      <title>CVE-2026-102214 Windows Hyper-V Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
-    </item>
-    <item
-      Revision="3.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-92707</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-92707</link>
-      <category>CVE</category>
-      <title>CVE-2026-92707 MessagePack-CSharp Denial of Service Vulnerability</title>
-      <description>Information published.</description>
-      <pubDate>Tue, 10 Nov 2026 14:50:30 -0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Nov 2026 23:46:23 Z</lastBuildDate>
     <item
       Revision="1.0000000000">
       <guid
@@ -7129,7 +6229,7 @@ The security update addresses the vulnerability by correcting how the Windows CN
       <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-114160</link>
       <category>CVE</category>
       <title>CVE-2026-114160 Azure Managed Grafana Elevation of Privilege Vulnerability</title>
-      <description>&lt;p&gt;No cwe for this issue in Azure Managed Grafana allows an unauthorized attacker to elevate privileges over a network.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Server-side request forgery (ssrf) in Azure Managed Grafana allows an unauthorized attacker to elevate privileges over a network.&lt;/p&gt;</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
     </item>
     <item
@@ -11881,6 +10981,926 @@ The security update addresses the vulnerability by correcting how the Windows CN
       <title>CVE-2026-120003 Microsoft Office Remote Code Execution Vulnerability</title>
       <description>&lt;p&gt;Heap-based buffer overflow in Microsoft Office allows an unauthorized attacker to execute code over a network.&lt;/p&gt;</description>
       <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-45465</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45465</link>
+      <category>CVE</category>
+      <title>CVE-2026-45465 Microsoft SharePoint Server Spoofing Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-44815</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-44815</link>
+      <category>CVE</category>
+      <title>CVE-2026-44815 Windows DHCP Client Elevation of Privilege Vulnerability</title>
+      <description>Updated Impact in the Security Updates table, CVE Title, and FAQs. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-50423</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50423</link>
+      <category>CVE</category>
+      <title>CVE-2026-50423 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-55043</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55043</link>
+      <category>CVE</category>
+      <title>CVE-2026-55043 Microsoft PowerPoint Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-55123</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55123</link>
+      <category>CVE</category>
+      <title>CVE-2026-55123 Microsoft PowerPoint Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-62784</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62784</link>
+      <category>CVE</category>
+      <title>CVE-2026-62784 Microsoft Local Security Authority Server (lsasrv) Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-68794</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68794</link>
+      <category>CVE</category>
+      <title>CVE-2026-68794 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-66810</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66810</link>
+      <category>CVE</category>
+      <title>CVE-2026-66810 Microsoft Office Word Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-62694</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62694</link>
+      <category>CVE</category>
+      <title>CVE-2026-62694 Windows Installer Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-85360</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85360</link>
+      <category>CVE</category>
+      <title>CVE-2026-85360 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-68833</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68833</link>
+      <category>CVE</category>
+      <title>CVE-2026-68833 Windows NTFS Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-68884</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68884</link>
+      <category>CVE</category>
+      <title>CVE-2026-68884 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-71339</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71339</link>
+      <category>CVE</category>
+      <title>CVE-2026-71339 Windows Installer Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69548</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69548</link>
+      <category>CVE</category>
+      <title>CVE-2026-69548 Windows RNDIS Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69767</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69767</link>
+      <category>CVE</category>
+      <title>CVE-2026-69767 Microsoft Office PowerPoint Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83952</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83952</link>
+      <category>CVE</category>
+      <title>CVE-2026-83952 Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69492</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69492</link>
+      <category>CVE</category>
+      <title>CVE-2026-69492 Windows Partition Management Driver Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-56172</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56172</link>
+      <category>CVE</category>
+      <title>CVE-2026-56172 Windows VHD miniport driver Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-68839</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68839</link>
+      <category>CVE</category>
+      <title>CVE-2026-68839 Windows USB Mass Storage Class Driver Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.4000000000">
+      <guid
+        isPermaLink="false">CVE-2026-68880</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-68880</link>
+      <category>CVE</category>
+      <title>CVE-2026-68880 Windows Win32k Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69280</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69280</link>
+      <category>CVE</category>
+      <title>CVE-2026-69280 Windows Push Notifications Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69277</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69277</link>
+      <category>CVE</category>
+      <title>CVE-2026-69277 Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69407</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69407</link>
+      <category>CVE</category>
+      <title>CVE-2026-69407 Volume Manager Driver Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69453</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69453</link>
+      <category>CVE</category>
+      <title>CVE-2026-69453 Microsoft Windows Search Component Tampering Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69467</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69467</link>
+      <category>CVE</category>
+      <title>CVE-2026-69467 Microsoft Graphics Component Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70583</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70583</link>
+      <category>CVE</category>
+      <title>CVE-2026-70583 Windows Core Messaging Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69409</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69409</link>
+      <category>CVE</category>
+      <title>CVE-2026-69409 Microsoft Office SharePoint Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-72974</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72974</link>
+      <category>CVE</category>
+      <title>CVE-2026-72974 Microsoft Office Excel Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69465</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69465</link>
+      <category>CVE</category>
+      <title>CVE-2026-69465 Microsoft Office SharePoint Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-73016</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-73016</link>
+      <category>CVE</category>
+      <title>CVE-2026-73016 DirectWrite Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-77911</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-77911</link>
+      <category>CVE</category>
+      <title>CVE-2026-77911 Microsoft Office Word Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81398</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81398</link>
+      <category>CVE</category>
+      <title>CVE-2026-81398 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81954</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81954</link>
+      <category>CVE</category>
+      <title>CVE-2026-81954 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81394</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81394</link>
+      <category>CVE</category>
+      <title>CVE-2026-81394 Microsoft Excel Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81957</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81957</link>
+      <category>CVE</category>
+      <title>CVE-2026-81957 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81951</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81951</link>
+      <category>CVE</category>
+      <title>CVE-2026-81951 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-81949</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81949</link>
+      <category>CVE</category>
+      <title>CVE-2026-81949 Microsoft Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83978</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83978</link>
+      <category>CVE</category>
+      <title>CVE-2026-83978 Windows Biometric Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83985</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83985</link>
+      <category>CVE</category>
+      <title>CVE-2026-83985 Windows Biometric Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-102227</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102227</link>
+      <category>CVE</category>
+      <title>CVE-2026-102227 Windows Resilient File System (ReFS) Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-105726</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105726</link>
+      <category>CVE</category>
+      <title>CVE-2026-105726 Microsoft Defender Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-108447</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108447</link>
+      <category>CVE</category>
+      <title>CVE-2026-108447 Microsoft Office Word Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69898</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69898</link>
+      <category>CVE</category>
+      <title>CVE-2026-69898 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70017</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70017</link>
+      <category>CVE</category>
+      <title>CVE-2026-70017 Windows Secure Kernel Mode Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70271</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70271</link>
+      <category>CVE</category>
+      <title>CVE-2026-70271 Windows Win32k Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83650</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83650</link>
+      <category>CVE</category>
+      <title>CVE-2026-83650 Windows Media Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83678</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83678</link>
+      <category>CVE</category>
+      <title>CVE-2026-83678 Windows TCP/IP Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83681</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83681</link>
+      <category>CVE</category>
+      <title>CVE-2026-83681 Microsoft PowerToys Tampering Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83758</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83758</link>
+      <category>CVE</category>
+      <title>CVE-2026-83758 Windows Error Reporting Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83768</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83768</link>
+      <category>CVE</category>
+      <title>CVE-2026-83768 Windows Kernel Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83775</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83775</link>
+      <category>CVE</category>
+      <title>CVE-2026-83775 Windows Installer Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83828</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83828</link>
+      <category>CVE</category>
+      <title>CVE-2026-83828 Windows MIDI Service Module Elevation of Privileges Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83846</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83846</link>
+      <category>CVE</category>
+      <title>CVE-2026-83846 Connected Devices Platform Service (Cdpsvc) Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83902</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83902</link>
+      <category>CVE</category>
+      <title>CVE-2026-83902 Windows Direct Composition Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70275</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70275</link>
+      <category>CVE</category>
+      <title>CVE-2026-70275 Windows CD-ROM File System Driver Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83911</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83911</link>
+      <category>CVE</category>
+      <title>CVE-2026-83911 Windows Storage Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83919</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83919</link>
+      <category>CVE</category>
+      <title>CVE-2026-83919 Microsoft Internet Messaging API Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83926</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83926</link>
+      <category>CVE</category>
+      <title>CVE-2026-83926 Windows Hello Security Feature Bypass Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-84018</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-84018</link>
+      <category>CVE</category>
+      <title>CVE-2026-84018 Windows Print Spooler Components Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-85927</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85927</link>
+      <category>CVE</category>
+      <title>CVE-2026-85927 Windows Universal Plug and Play (UPnP) Device Host Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70052</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70052</link>
+      <category>CVE</category>
+      <title>CVE-2026-70052 Microsoft PowerShell Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69940</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69940</link>
+      <category>CVE</category>
+      <title>CVE-2026-69940 Windows Client for NFS Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70291</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70291</link>
+      <category>CVE</category>
+      <title>CVE-2026-70291 Microsoft Office Outlook Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88151</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88151</link>
+      <category>CVE</category>
+      <title>CVE-2026-88151 Microsoft Office Excel Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88202</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88202</link>
+      <category>CVE</category>
+      <title>CVE-2026-88202 Microsoft Office Word Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96223</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96223</link>
+      <category>CVE</category>
+      <title>CVE-2026-96223 Windows Hyper-V Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96311</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96311</link>
+      <category>CVE</category>
+      <title>CVE-2026-96311 Windows Network List Service Tampering Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96314</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96314</link>
+      <category>CVE</category>
+      <title>CVE-2026-96314 Windows Audio Service Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97749</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97749</link>
+      <category>CVE</category>
+      <title>CVE-2026-97749 Microsoft Office Outlook Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.4000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97776</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97776</link>
+      <category>CVE</category>
+      <title>CVE-2026-97776 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97767</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97767</link>
+      <category>CVE</category>
+      <title>CVE-2026-97767 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69880</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69880</link>
+      <category>CVE</category>
+      <title>CVE-2026-69880 Desktop Window Manager Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70199</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70199</link>
+      <category>CVE</category>
+      <title>CVE-2026-70199 Windows Kernel Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83639</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83639</link>
+      <category>CVE</category>
+      <title>CVE-2026-83639 Windows Sensor Data Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-83676</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83676</link>
+      <category>CVE</category>
+      <title>CVE-2026-83676 Windows Installer Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69798</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69798</link>
+      <category>CVE</category>
+      <title>CVE-2026-69798 Windows Wired AutoConfig Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88072</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88072</link>
+      <category>CVE</category>
+      <title>CVE-2026-88072 Windows Host Guardian Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88128</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88128</link>
+      <category>CVE</category>
+      <title>CVE-2026-88128 Windows DWM Core Library Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88152</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88152</link>
+      <category>CVE</category>
+      <title>CVE-2026-88152 Windows Background Intelligent Transfer Service (BITS) Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70202</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70202</link>
+      <category>CVE</category>
+      <title>CVE-2026-70202 Microsoft Office SharePoint Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96251</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96251</link>
+      <category>CVE</category>
+      <title>CVE-2026-96251 Microsoft PowerShell Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97008</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97008</link>
+      <category>CVE</category>
+      <title>CVE-2026-97008 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97743</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97743</link>
+      <category>CVE</category>
+      <title>CVE-2026-97743 Microsoft Office Excel Information Disclosure Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.4000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97777</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97777</link>
+      <category>CVE</category>
+      <title>CVE-2026-97777 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97011</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97011</link>
+      <category>CVE</category>
+      <title>CVE-2026-97011 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97757</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97757</link>
+      <category>CVE</category>
+      <title>CVE-2026-97757 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97763</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97763</link>
+      <category>CVE</category>
+      <title>CVE-2026-97763 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97768</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97768</link>
+      <category>CVE</category>
+      <title>CVE-2026-97768 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-97745</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97745</link>
+      <category>CVE</category>
+      <title>CVE-2026-97745 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-100211</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-100211</link>
+      <category>CVE</category>
+      <title>CVE-2026-100211 Microsoft Office Excel Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-102214</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102214</link>
+      <category>CVE</category>
+      <title>CVE-2026-102214 Windows Hyper-V Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="3.0000000000">
+      <guid
+        isPermaLink="false">CVE-2026-92707</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-92707</link>
+      <category>CVE</category>
+      <title>CVE-2026-92707 MessagePack-CSharp Denial of Service Vulnerability</title>
+      <description>Information published.</description>
+      <pubDate>Tue, 10 Nov 2026 14:50:30 -0800</pubDate>
     </item>
     <item
       Revision="1.0000000000">
