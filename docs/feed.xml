@@ -5,7 +5,37 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Fri, 13 Nov 2026 22:46:06 Z</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:20:11 Z</lastBuildDate>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-105544</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105544</link>
+      <category>CVE</category>
+      <title>CVE-2026-105544 .NET VSTest Elevation of Privilege Vulnerability</title>
+      <description>Corrected the CVE description and title. This is an informational change only.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-124223</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-124223</link>
+      <category>CVE</category>
+      <title>CVE-2026-124223 Microsoft Office SharePoint Remote Code Execution Vulnerability</title>
+      <description>Information published. This CVE was addressed by updates that were released in November 2026, but the CVE was inadvertently omitted from the November 2026 Security Updates. This is an informational change only. Customers who have already installed the November 2026 updates do not need to take any further action.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-124222</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-124222</link>
+      <category>CVE</category>
+      <title>CVE-2026-124222 Microsoft Office SharePoint Elevation of Privilege Vulnerability</title>
+      <description>Information published. This CVE was addressed by updates that were released in November 2026, but the CVE was inadvertently omitted from the November 2026 Security Updates. This is an informational change only. Customers who have already installed the November 2026 updates do not need to take any further action.</description>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="1.1000000000">
       <guid
@@ -57821,156 +57851,6 @@ Google is aware that an exploit for CVE-2026-85046 exists in the wild.</descript
       <title>CVE-2026-56642 Microsoft Fabric Data Warehouse Remote Code Execution Vulnerability</title>
       <description>Updated the Security Updates table by removing an affected software entry. No user action is required. This is an informational change only.</description>
       <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-40400</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400</link>
-      <category>CVE</category>
-      <title>CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-56188</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56188</link>
-      <category>CVE</category>
-      <title>CVE-2026-56188 Windows Server Network driver Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62722</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62722</link>
-      <category>CVE</category>
-      <title>CVE-2026-62722 Microsoft Brokering File System Elevation of Privilege Vulnerability</title>
-      <description>Corrected the CVE description and title. This is an informational change only.</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-66807</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66807</link>
-      <category>CVE</category>
-      <title>CVE-2026-66807 Microsoft Office Graphics Component Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-63519</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63519</link>
-      <category>CVE</category>
-      <title>CVE-2026-63519 Microsoft Office Graphics Component Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-63513</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63513</link>
-      <category>CVE</category>
-      <title>CVE-2026-63513 Microsoft Office Graphics Component Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70337</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337</link>
-      <category>CVE</category>
-      <title>CVE-2026-70337 Microsoft PowerShell Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-58612</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58612</link>
-      <category>CVE</category>
-      <title>CVE-2026-58612 PowerShell Information Disclosure Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62886</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62886</link>
-      <category>CVE</category>
-      <title>CVE-2026-62886 .NET Elevation of Privilege Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-63518</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63518</link>
-      <category>CVE</category>
-      <title>CVE-2026-63518 Microsoft Office Word Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 17 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65768</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65768</link>
-      <category>CVE</category>
-      <title>CVE-2026-65768 Microsoft Teams Remote Code Execution Vulnerability</title>
-      <description>Corrected build number for the security update.  This in an informational change only.</description>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65769</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65769</link>
-      <category>CVE</category>
-      <title>CVE-2026-65769 Microsoft Teams iOS Information Disclosure Vulnerability</title>
-      <description>Corrected build number for the security update.  This in an informational change only.</description>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-57104</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57104</link>
-      <category>CVE</category>
-      <title>CVE-2026-57104 Azure Storage Explorer Elevation of Privilege Vulnerability</title>
-      <description>Corrected build number for the security update.  This in an informational change only.</description>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65767</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65767</link>
-      <category>CVE</category>
-      <title>CVE-2026-65767 Microsoft Teams for Android Spoofing Vulnerability</title>
-      <description>Corrected build number for the security update.  This in an informational change only.</description>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-59124</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59124</link>
-      <category>CVE</category>
-      <title>CVE-2026-59124 Microsoft High Performance Computing (HPC) Pack Remote Code Execution Vulnerability</title>
-      <description>Corrected the listed software in the Security Updates table.  Microsoft recommends installing the security update as soon as possible.</description>
-      <pubDate>Sun, 16 Aug 2026 07:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
