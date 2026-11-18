@@ -5,7 +5,97 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Mon, 16 Nov 2026 19:20:11 Z</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:52:22 Z</lastBuildDate>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-121680</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-121680</link>
+      <category>CVE</category>
+      <title>CVE-2026-121680 Windows NTLM Spoofing Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-119961</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119961</link>
+      <category>CVE</category>
+      <title>CVE-2026-119961 Windows Internet Information Services Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-119914</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119914</link>
+      <category>CVE</category>
+      <title>CVE-2026-119914 Windows Setup and Deployment Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-108440</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108440</link>
+      <category>CVE</category>
+      <title>CVE-2026-108440 Microsoft Office Word Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.4000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96251</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96251</link>
+      <category>CVE</category>
+      <title>CVE-2026-96251 Microsoft PowerShell Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-88208</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88208</link>
+      <category>CVE</category>
+      <title>CVE-2026-88208 Microsoft Office SharePoint Spoofing Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70278</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70278</link>
+      <category>CVE</category>
+      <title>CVE-2026-70278 Microsoft Windows Media Foundation Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-78524</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78524</link>
+      <category>CVE</category>
+      <title>CVE-2026-78524 Microsoft Office Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.6000000000">
+      <guid
+        isPermaLink="false">CVE-2026-40400</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40400</link>
+      <category>CVE</category>
+      <title>CVE-2026-40400 Windows PowerShell Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="2.1000000000">
       <guid
@@ -57781,76 +57871,6 @@ Google is aware that an exploit for CVE-2026-85046 exists in the wild.</descript
       <title>CVE-2026-42912 Windows Telephony Service Elevation of Privilege Vulnerability</title>
       <description>Acknowledgement Updated</description>
       <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-24301</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301</link>
-      <category>CVE</category>
-      <title>CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability</title>
-      <description>&lt;p&gt;Improper neutralization of special elements used in a command ('command injection') in Microsoft Copilot allows an unauthorized attacker to disclose information over a network.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65791</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65791</link>
-      <category>CVE</category>
-      <title>CVE-2026-65791 Windows iSCSI Target Service Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.4000000000">
-      <guid
-        isPermaLink="false">CVE-2026-66804</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66804</link>
-      <category>CVE</category>
-      <title>CVE-2026-66804 Microsoft Windows Cross Device Service Elevation of Privilege Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70338</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338</link>
-      <category>CVE</category>
-      <title>CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-47632</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47632</link>
-      <category>CVE</category>
-      <title>CVE-2026-47632 Azure Connected Machine Agent Elevation of Privilege Vulnerability</title>
-      <description>Corrected the affected product from **Azure Monitor Agent Metrics Extension** to **Azure Connected Machine Agent** and updated the Security Updates table. This is an informational change only.</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50419</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50419</link>
-      <category>CVE</category>
-      <title>CVE-2026-50419 Windows Kernel Information Disclosure Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-56642</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-56642</link>
-      <category>CVE</category>
-      <title>CVE-2026-56642 Microsoft Fabric Data Warehouse Remote Code Execution Vulnerability</title>
-      <description>Updated the Security Updates table by removing an affected software entry. No user action is required. This is an informational change only.</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
