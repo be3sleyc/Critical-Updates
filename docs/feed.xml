@@ -5,7 +5,17 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Tue, 17 Nov 2026 16:52:22 Z</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:25:07 Z</lastBuildDate>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-118148</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-118148</link>
+      <category>CVE</category>
+      <title>CVE-2026-118148 Active Directory Domain Services Elevation of Privilege Vulnerability</title>
+      <description>Updated the CVSS score and corrected FAQs. This is an informational change only.</description>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="1.2000000000">
       <guid
@@ -57721,156 +57731,6 @@ Google is aware that an exploit for CVE-2026-85046 exists in the wild.</descript
       <title>CVE-2026-71331 Windows Device Health Attestation (DHA) Remote Code Execution Vulnerability</title>
       <description>Corrected the Executive Summary to clarify that the vulnerability affects Windows Device Health Attestation (DHA), not Microsoft Azure Attestation. This is an informational change only.</description>
       <pubDate>Thu, 20 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70338</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70338</link>
-      <category>CVE</category>
-      <title>CVE-2026-70338 Microsoft PowerShell Security Feature Bypass Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62705</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62705</link>
-      <category>CVE</category>
-      <title>CVE-2026-62705 Microsoft Brokering File System Elevation of Privilege Vulnerability</title>
-      <description>Corrected the CVE title from **Windows Bind Filter Driver Elevation of Privilege Vulnerability** to **Microsoft Brokering File System Elevation of Privilege Vulnerability** and updated the acknowledgement. These are informational changes only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-69414</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414</link>
-      <category>CVE</category>
-      <title>CVE-2026-69414 Microsoft Defender Elevation of Privilege Vulnerability</title>
-      <description>CWE added. Informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65811</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65811</link>
-      <category>CVE</category>
-      <title>CVE-2026-65811 Power BI Remote Code Execution Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65675</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65675</link>
-      <category>CVE</category>
-      <title>CVE-2026-65675 CoPilot Chat Security Feature Bypass Vulnerability</title>
-      <description>CWE added. Informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2020-1173</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-1173</link>
-      <category>CVE</category>
-      <title>CVE-2020-1173 Microsoft Power BI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2021-26859</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26859</link>
-      <category>CVE</category>
-      <title>CVE-2021-26859 Microsoft Power BI Information Disclosure Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.1000000000">
-      <guid
-        isPermaLink="false">CVE-2021-41372</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-41372</link>
-      <category>CVE</category>
-      <title>CVE-2021-41372 Power BI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2023-21806</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21806</link>
-      <category>CVE</category>
-      <title>CVE-2023-21806 Power BI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2024-43612</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43612</link>
-      <category>CVE</category>
-      <title>CVE-2024-43612 Power BI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2024-43481</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43481</link>
-      <category>CVE</category>
-      <title>CVE-2024-43481 Power BI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50383</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50383</link>
-      <category>CVE</category>
-      <title>CVE-2026-50383 Windows Print Spooler Information Disclosure Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-49798</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49798</link>
-      <category>CVE</category>
-      <title>CVE-2026-49798 Windows Kernel Elevation of Privilege Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-58647</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-58647</link>
-      <category>CVE</category>
-      <title>CVE-2026-58647 Microsoft PowerBI Report Server Spoofing Vulnerability</title>
-      <description>Corrected the Power BI Report Server version in the Security Updates table to use the public release version instead of the internal build number. This is an informational change only.</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-42912</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42912</link>
-      <category>CVE</category>
-      <title>CVE-2026-42912 Windows Telephony Service Elevation of Privilege Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Wed, 19 Aug 2026 07:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
