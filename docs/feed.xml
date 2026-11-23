@@ -5,7 +5,107 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Fri, 20 Nov 2026 08:02:56 Z</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:45:23 Z</lastBuildDate>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-69291</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69291</link>
+      <category>CVE</category>
+      <title>CVE-2026-69291 Windows Volume Manager Extension Driver Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-78462</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-78462</link>
+      <category>CVE</category>
+      <title>CVE-2026-78462 Visual Studio Code Security Feature Bypass Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-72965</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72965</link>
+      <category>CVE</category>
+      <title>CVE-2026-72965 Windows WebClient Service Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-87697</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-87697</link>
+      <category>CVE</category>
+      <title>CVE-2026-87697 .NET Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70175</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70175</link>
+      <category>CVE</category>
+      <title>CVE-2026-70175 ASP.NET Core Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-70197</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197</link>
+      <category>CVE</category>
+      <title>CVE-2026-70197 .NET and Visual Studio Remote Code Execution Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.3000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96225</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96225</link>
+      <category>CVE</category>
+      <title>CVE-2026-96225 .NET Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.2000000000">
+      <guid
+        isPermaLink="false">CVE-2026-96233</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96233</link>
+      <category>CVE</category>
+      <title>CVE-2026-96233 ASP.NET Core Denial of Service Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="2.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-109481</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109481</link>
+      <category>CVE</category>
+      <title>CVE-2026-109481 ASP.NET Core Elevation of Privilege Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-119848</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-119848</link>
+      <category>CVE</category>
+      <title>CVE-2026-119848 Windows Message Queuing Denial of Service Vulnerability</title>
+      <description>Updated an acknowledgement. This is an informational change only.</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="4.0000000000">
       <guid
@@ -57831,36 +57931,6 @@ Google is aware that an exploit for CVE-2026-85046 exists in the wild.</descript
       <title>CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability</title>
       <description>Updated an acknowledgement. This is an informational change only.</description>
       <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50661</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50661</link>
-      <category>CVE</category>
-      <title>CVE-2026-50661 Windows BitLocker Security Feature Bypass Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-65787</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65787</link>
-      <category>CVE</category>
-      <title>CVE-2026-65787 Desktop Window Manager Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.0000000000">
-      <guid
-        isPermaLink="false">CVE-2026-47292</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-47292</link>
-      <category>CVE</category>
-      <title>CVE-2026-47292 Visual Studio Code MSSQL Extension Remote Code Execution Vulnerability</title>
-      <description>Affected software updated with new package information.</description>
-      <pubDate>Mon, 24 Aug 2026 07:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
