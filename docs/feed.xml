@@ -5,7 +5,17 @@
     <title>MSRC Security Update Guide</title>
     <link>https://msrc.microsoft.com/update-guide/</link>
     <description />
-    <lastBuildDate>Mon, 23 Nov 2026 21:45:23 Z</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:11:00 Z</lastBuildDate>
+    <item
+      Revision="1.1000000000">
+      <guid
+        isPermaLink="false">CVE-2026-112732</guid>
+      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-112732</link>
+      <category>CVE</category>
+      <title>CVE-2026-112732 Microsoft Office Visio Remote Code Execution Vulnerability</title>
+      <description>Information published. This CVE was addressed by updates that were released in November 2026, but the CVE was inadvertently omitted from the November 2026 Security Updates. This is an informational change only. Customers who have already installed the November 2026 updates do not need to take any further action.</description>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 -0800</pubDate>
+    </item>
     <item
       Revision="1.1000000000">
       <guid
@@ -57801,136 +57811,6 @@ Google is aware that an exploit for CVE-2026-85046 exists in the wild.</descript
       <title>CVE-2026-68819 Windows Network File System Denial of Service Vulnerability</title>
       <description>Acknowledgement Updated</description>
       <pubDate>Wed, 26 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.3000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62747</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62747</link>
-      <category>CVE</category>
-      <title>CVE-2026-62747 Windows Device Association Service Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-61939</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-61939</link>
-      <category>CVE</category>
-      <title>CVE-2026-61939 Winlogon Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-62728</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-62728</link>
-      <category>CVE</category>
-      <title>CVE-2026-62728 Windows Common Log File System Driver Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="2.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-70337</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70337</link>
-      <category>CVE</category>
-      <title>CVE-2026-70337 Microsoft PowerShell Remote Code Execution Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-59127</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59127</link>
-      <category>CVE</category>
-      <title>CVE-2026-59127 Windows Installer Elevation of Privilege Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-59130</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59130</link>
-      <category>CVE</category>
-      <title>CVE-2026-59130 AMD Zen Information Disclosure Vulnerability</title>
-      <description>Updated CWE value.  This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-59131</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-59131</link>
-      <category>CVE</category>
-      <title>CVE-2026-59131 AMD Zen Information Disclosure Vulnerability</title>
-      <description>Updated CWE value.  This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-24301</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-24301</link>
-      <category>CVE</category>
-      <title>CVE-2026-24301 Microsoft Copilot Information Disclosure Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-45639</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45639</link>
-      <category>CVE</category>
-      <title>CVE-2026-45639 Windows Remote Desktop Protocol (RDP) Information Disclosure Vulnerability</title>
-      <description>Acknowledgement Updated</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-55137</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-55137</link>
-      <category>CVE</category>
-      <title>CVE-2026-55137 Microsoft Excel Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.1000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50448</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50448</link>
-      <category>CVE</category>
-      <title>CVE-2026-50448 Windows NTFS Remote Code Execution Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-49183</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-49183</link>
-      <category>CVE</category>
-      <title>CVE-2026-49183 Windows Clipboard Server Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
-    </item>
-    <item
-      Revision="1.2000000000">
-      <guid
-        isPermaLink="false">CVE-2026-50333</guid>
-      <link>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50333</link>
-      <category>CVE</category>
-      <title>CVE-2026-50333 Windows Spaceport.sys Elevation of Privilege Vulnerability</title>
-      <description>Updated an acknowledgement. This is an informational change only.</description>
-      <pubDate>Tue, 25 Aug 2026 07:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
